@@ -1,2 +1,3 @@
 # project-
-there is two type of peanuts here skinout and good
+this is eda analysis of data
+
